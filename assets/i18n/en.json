@@ -1,0 +1,21 @@
+{
+  "title": "Access Control Web",
+  "my_data": "My Data",
+  "qr_code": "QR CODE",
+  "qr_mainscreen_desc": "Tap for scan QR Code",
+  "member": "Member",
+  "ac_scan_qrcode": "Scan QR Code for gate in & \n gate out cluster",
+  "ac_scan_qrcode_desc": "Tap here to close QR Code",
+  "to_cluster": "To Cluster",
+  "entry_time": "Entry Time",
+  "from_cluster": "From Cluster",
+  "exit_time": "Exit Time",
+  "ok_got_it": "ok, got it",
+  "see_more_details": "See More Details",
+  "qrcode_scan_failed": "Oopss...\n",
+  "scan_again": "scan again",
+  "close_modal": "close",
+  "ticket_no": "Ticket No",
+  "type": "Type",
+  "duration": "Duration"
+}

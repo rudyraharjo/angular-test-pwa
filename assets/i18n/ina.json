@@ -1,0 +1,21 @@
+{
+  "title": "Access Control Web",
+  "my_data": "Data Saya",
+  "qr_code": "QR CODE",
+  "qr_mainscreen_desc": "Tap untuk perbesar QR Code",
+  "member": "Member",
+  "ac_scan_qrcode": "Pindai Kode QR untuk masuk & \nkeluar gate cluster",
+  "ac_scan_qrcode_desc": "Tap disini untuk menutup QR Code",
+  "to_cluster": "Menuju Cluster",
+  "from_cluster": "Dari Cluster",
+  "entry_time": "Waktu Masuk",
+  "exit_time": "Waktu Keluar",
+  "ok_got_it": "ok, got it",
+  "see_more_details": "Lihat Info lebih banyak",
+  "qrcode_scan_failed": "Oopss...\n",
+  "scan_again": "pindai lagi",
+  "close_modal": "tutup",
+  "ticket_no": "Nomor Tiket",
+  "type": "Tipe",
+  "duration": "Durasi"
+}

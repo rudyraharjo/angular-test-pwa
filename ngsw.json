@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "index": "https://rudyraharjo.github.io/my-app-one/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://rudyraharjo.github.io/my-app-one/favicon.ico",
+        "https://rudyraharjo.github.io/my-app-one/index.html",
+        "https://rudyraharjo.github.io/my-app-one/main.04bb20f4ac75032a8991.js",
+        "https://rudyraharjo.github.io/my-app-one/polyfills.670c177734a00cd091a7.js",
+        "https://rudyraharjo.github.io/my-app-one/runtime.b57bf819d5bdce77f1c7.js",
+        "https://rudyraharjo.github.io/my-app-one/styles.e459ef3a2edc174d011d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://rudyraharjo.github.io/my-app-one/assets/i18n/en.json",
+        "https://rudyraharjo.github.io/my-app-one/assets/i18n/ina.json",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/cancel.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/chevron-left.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/chevron-right.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/close-button.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-128x128.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-144x144.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-152x152.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-192x192.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-384x384.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-512x512.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-72x72.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-96x96.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/no-img.jpg",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/qr-code.png",
+        "https://rudyraharjo.github.io/my-app-one/assets/icons/success.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://rudyraharjo.github.io/my-app-one/assets/i18n/en.json": "e38e2571929a51bf883df54bdc94923e1b072374",
+    "https://rudyraharjo.github.io/my-app-one/assets/i18n/ina.json": "2704f4ad72fc24de49690a1abb0b65e3e9776984",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/cancel.png": "abeffcf03b59758d369f6d17bca50b23a113a900",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/chevron-left.png": "ea4c2fb208a86ece4ba6e7bd5b384f497f50a9bf",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/chevron-right.png": "3b50b646be57491e207e8dc00b90bca0998f9c97",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/close-button.png": "676886af5a880de54591869f2766920c4b17b3dc",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/no-img.jpg": "92c500c6f31414a4069a9fbfba6887db7d0b78a0",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/qr-code.png": "174fa9fe9276159424d9bd203071d48e3c8d21c4",
+    "https://rudyraharjo.github.io/my-app-one/assets/icons/success.png": "355e923c55f721a508d2e7d3f90cc325fcd7ed54",
+    "https://rudyraharjo.github.io/my-app-one/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://rudyraharjo.github.io/my-app-one/index.html": "6617ce454b0f9ec6874b76609ab63700b935d8e3",
+    "https://rudyraharjo.github.io/my-app-one/main.04bb20f4ac75032a8991.js": "8c9940ee1d727b937c5de8fec5ab00924220f40c",
+    "https://rudyraharjo.github.io/my-app-one/polyfills.670c177734a00cd091a7.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "https://rudyraharjo.github.io/my-app-one/runtime.b57bf819d5bdce77f1c7.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://rudyraharjo.github.io/my-app-one/styles.e459ef3a2edc174d011d.css": "bb7b899c7b5f4422a7c0c44ccb68b735f11c7138"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
